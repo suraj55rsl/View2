@@ -15,6 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             tools:layout_editor_absoluteX="0dp"
+            android:scaleType="centerCrop"
             android:src="@drawable/college"
             android:background="@color/purple_700"
             android:layout_weight="2"
